@@ -1,3 +1,3 @@
 # mtmqehs
-Repositorio oficial de la pagina mtmqehs
-Cambios realizados
+
+Repositorio oficial del website de mtmqehs.
